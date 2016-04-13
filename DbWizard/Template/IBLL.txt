@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using OLO.API.Models;
-using OLO.API.Data;
+using Models;
 
-using Newtonsoft.Json.Linq;
-
-namespace OLO.API.IBLL
+namespace BLL
 {
     public interface I{TableName}Service : IBaseBLL<{TableName}>
     {

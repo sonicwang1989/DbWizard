@@ -3,11 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using OLO.API.Data;
-using OLO.API.Models;
-using Newtonsoft.Json.Linq;
+using Models;
 
-namespace OLO.API.IDAL
+namespace IDAL
 {
     public interface I{TableName}DAL : IBaseDAL<{TableName}>
     {

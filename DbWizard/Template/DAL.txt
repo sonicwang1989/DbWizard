@@ -3,14 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using OLO.API.Core.Utils;
-using OLO.API.Data;
-using OLO.API.IDAL;
-using OLO.API.Models;
+using IDAL;
+using Models;
 
-using Microsoft.Practices.Unity;
-
-namespace OLO.API.DAL
+namespace DAL
 {
     public class {TableName}DAL : BaseDAL<{TableName}> , I{TableName}DAL
     {

@@ -1,8 +1,6 @@
 ﻿using System;
 
-using OLO.API.Core;
-
-namespace OLO.API.Models
+namespace Models
 {
     [Table(Name ="{TableName}")]
     public class {TableName} : BaseEntity
