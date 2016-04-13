@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using OLO.API.Data;
+using OLO.API.DAL;
+using OLO.API.IDAL;
+using OLO.API.IBLL;
+using OLO.API.Models;
+
+using Microsoft.Practices.Unity;
+
+using Newtonsoft.Json.Linq;
+
+namespace OLO.API.BLL
+{
+    public class {TableName}Service: BaseBLL<{TableName}>, I{TableName}Service
+    {
+        private I{TableName}DAL _{TableName}DAL = null;
+
+        [InjectionConstructor]
+        public {TableName}Service(I{TableName}DAL currentDAL)
+        {
+            this.CurrentDAL = currentDAL;
+            this._{TableName}DAL = currentDAL;
+        }
+        
+    }
+}

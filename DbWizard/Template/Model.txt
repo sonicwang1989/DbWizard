@@ -1,0 +1,14 @@
+﻿using System;
+
+using OLO.API.Core;
+
+namespace OLO.API.Models
+{
+    [Table(Name ="{TableName}")]
+    public class {TableName} : BaseEntity
+    {
+        #FieldsStart#
+        public {FieldType} {FieldName}{ get; set; }
+        #FieldsEnd#
+    }
+}

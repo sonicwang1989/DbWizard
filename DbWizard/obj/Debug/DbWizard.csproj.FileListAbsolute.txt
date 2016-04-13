@@ -1,0 +1,15 @@
+D:\Projects\数据库向导\DbWizard\bin\Debug\DbWizard.exe.config
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.csprojResolveAssemblyReference.cache
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.Form1.resources
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.Properties.Resources.resources
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.CreateDbControl.resources
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.csproj.GenerateResource.Cache
+D:\Projects\数据库向导\DbWizard\bin\Debug\DbWizard.exe
+D:\Projects\数据库向导\DbWizard\bin\Debug\DbWizard.pdb
+D:\Projects\数据库向导\DbWizard\bin\Debug\Borui.dll
+D:\Projects\数据库向导\DbWizard\bin\Debug\EntityFramework.dll
+D:\Projects\数据库向导\DbWizard\bin\Debug\MySql.Data.dll
+D:\Projects\数据库向导\DbWizard\bin\Debug\Borui.pdb
+D:\Projects\数据库向导\DbWizard\bin\Debug\Borui.xml
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.exe
+D:\Projects\数据库向导\DbWizard\obj\Debug\DbWizard.pdb

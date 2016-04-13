@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using OLO.API.Data;
+using OLO.API.Models;
+using Newtonsoft.Json.Linq;
+
+namespace OLO.API.IDAL
+{
+    public interface I{TableName}DAL : IBaseDAL<{TableName}>
+    {
+			
+    }
+}

@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using OLO.API.Models;
+using OLO.API.Data;
+
+using Newtonsoft.Json.Linq;
+
+namespace OLO.API.IBLL
+{
+    public interface I{TableName}Service : IBaseBLL<{TableName}>
+    {
+	
+    }
+}
